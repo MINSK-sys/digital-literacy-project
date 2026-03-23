@@ -51,7 +51,7 @@ The full written report documenting my work, observations, and reflections is av
 ---
 
 ## 🔗 Quick Links
-* **Digital Literacy Quiz:** [Insert Google Form Link Here] 🔗
+* **Digital Literacy Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScH7N1VMtCgBUsDxc5ic4EeO95s648QJxN_zpVOgShj-c88aA/viewform?usp=sharing&ouid=105927154419297580657 🔗
 * **College Portal:** [VITyarthi](https://vityarthi.vitbhopal.ac.in) 🏫
 
 ---
