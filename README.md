@@ -6,7 +6,7 @@
 ## 👤 Student Information
 * **Name:** Minakshi Singh
 * **Registration Number:** 25BOE10108
-* **Branch:** SBET
+* **Branch:** School of Bioengineering and Technology
 * **Year:** First Year B.Tech 📅
 
 ---
@@ -20,17 +20,17 @@ As a **Student Digital Ambassador** at my college, my role is to help peers navi
 
 ### 🎨 Task 1: Digital Literacy Awareness
 * **Goal:** Created a one-page visual resource to help batchmates understand Digital Literacy.
-* **Tool used:** [e.g., Canva / Prezi].
+* **Tool used:** Canva
 * **Folder:** `task-1-presentation/` 📂
 
 ### 💼 Task 2: Student Digital Portfolio
 * **Goal:** Established a professional digital presence across key academic and professional platforms.
-* **Platforms:** GitHub, LinkedIn, and [e.g., Kaggle].
+* **Platforms:** GitHub, LinkedIn, and Kaggle.
 * **Folder:** `task-2-portfolio/` 📂
 
 ### 💻 Task 3: Coding & Collaboration Platforms
 * **Goal:** Built familiarity with coding practice tools and cloud collaboration software.
-* **Activities:** Completed a [e.g., HackerRank] challenge and designed a Digital Literacy Quiz via Google Forms.
+* **Activities:** Completed a HackerRank challenge and designed a Digital Literacy Quiz via Google Forms.
 * **Folder:** `task-3-platforms/` 📂
 
 ### 📧 Task 4: Professional Email & Etiquette
@@ -39,7 +39,7 @@ As a **Student Digital Ambassador** at my college, my role is to help peers navi
 
 ### 🛡️ Task 5: Cybercrime Awareness & Prevention
 * **Goal:** Researched a real-world cybercrime scenario and produced a 'Stay Safe Online' prevention guide.
-* [cite_start]**Focus:** [e.g., UPI Fraud / Phishing] awareness for students.
+* **Focus:** UPI Fraud / Phishing awareness for students.
 * **Folder:** `task-5-cybercrime/` 📂
 
 ---
