@@ -1,4 +1,4 @@
-# Task 5: Cybercrime Case Study - UPI/Online Payment Fraud
+# Cybercrime Case Study - UPI/Online Payment Fraud
 
 ### Description of the Crime
 UPI (Unified Payments Interface) fraud is a type of financial cybercrime that exploits the "request money" feature of payment apps.In this scenario, a scammer contacts a student claiming they accidentally transferred money to the student's account and requests a "refund".
